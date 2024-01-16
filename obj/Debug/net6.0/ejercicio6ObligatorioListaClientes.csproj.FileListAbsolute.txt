@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\bin\Debug\net6.0\ejercicio6ObligatorioListaClientes.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\bin\Debug\net6.0\ejercicio6ObligatorioListaClientes.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\bin\Debug\net6.0\ejercicio6ObligatorioListaClientes.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\bin\Debug\net6.0\ejercicio6ObligatorioListaClientes.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\bin\Debug\net6.0\ejercicio6ObligatorioListaClientes.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\refint\ejercicio6ObligatorioListaClientes.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ejercicio6ObligatorioListaClientes.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6ObligatorioListaClientes\obj\Debug\net6.0\ref\ejercicio6ObligatorioListaClientes.dll
